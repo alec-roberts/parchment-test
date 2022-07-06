@@ -16,7 +16,7 @@ versionInfo: GameID
 ;
 
 room: Room 'Room'
-    "The following should be a 3x3 table:
+    "The following should be a 3x3 table:\b
     <table>
         <tr>
             <td width=500>A1 (this column should be 500px wide)</td>
@@ -33,7 +33,7 @@ room: Room 'Room'
             <td valign=bottom>C2 (this should appear at its row's bottom)</td>
             <td>C3 (here is some other text to force this onto multiple lines)</td>
         </tr>
-    </table>
+    </table>\b
     
     <b>This line should be in bold.</b>\b
     
